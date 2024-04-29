@@ -147,7 +147,11 @@ a {
     color: #941c01;
     transition: all ease-in-out 0.5s;
     outline: none; }
-
+    
+.register-login .nir-btn.hover-color:hover {
+    background-color: #ffecd1;
+    color: #fff;
+  }
 a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: #941c01 !important; }
 
