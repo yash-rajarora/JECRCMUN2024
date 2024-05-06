@@ -87,7 +87,11 @@ h6, .h6 {
     font-size: 28px; }
 
   h3 {
-    font-size: 21px; } }
+    font-size: 21px; } 
+  .jecrc-hero{
+    width: 70%;
+  }
+  }
 .h-title {
   font-size: 130px;
   font-family: "Inter", sans-serif;
