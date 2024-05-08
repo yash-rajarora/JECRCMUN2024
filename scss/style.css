@@ -5897,7 +5897,7 @@ footer .footer-listing-main .footer-listing i {
   display: inline-block !important;
 }
 .social-links ul li a {
-  background: rgba(255, 255, 255, 0.1490196078);
+  /* background: rgba(255, 255, 255, 0.1490196078); */
   color: #fff;
   width: 40px;
   height: 40px;

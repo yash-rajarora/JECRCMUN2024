@@ -2349,17 +2349,19 @@ footer {
   .social-links ul li {
     display: inline-block !important; }
     .social-links ul li a {
-      background: #ffffff;
+      /* background: #ffffff; */
       color: #941c01;
       width: 40px;
       height: 40px;
       display: inline-block;
       text-align: center;
-      font-size: 17px;
-      line-height: 2.4; }
+      font-size: 25px;
+      line-height: 1.8; }
       .social-links ul li a:hover {
         color: #fff;
-        background: #e69138; }
+        background: #941c01; 
+        border-radius: 5%;
+      }
 
 /* ========================================= */
 /*          Listing CSS        */
